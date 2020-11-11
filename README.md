@@ -8,3 +8,6 @@
 
 # 浏览器
 [浏览器缓存](https://github.com/Edwardzerb/Blog/issues/3)
+
+# 杂谈
+[性能优化](https://github.com/Edwardzerb/Blog/issues/4)
